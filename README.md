@@ -30,6 +30,8 @@ On Linux, by default, here:
 | [ModMenu](https://www.curseforge.com/minecraft/mc-mods/modmenu) | A simple mod that adds an in-game mods list |
 | [SimpleHarvest](https://www.curseforge.com/minecraft/mc-mods/simpleharvest) | Adds the hability for you to right click to harves crops | 
 | [More Enchantments](https://www.curseforge.com/minecraft/mc-mods/fabric-more-enchantments) | Adds several new enchantments to the game |
+| [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) | Adds several commands to the vanilla game |
+| [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra) | Addon to the carpet mod |
 | [LightOverlay *](https://www.curseforge.com/minecraft/mc-mods/light-overlay) | Adds a JEI style darkness overlay |
 | [InventoryProfiles *](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles) | Inventory sorting and other inventory tweaks |
 | [Lithium *](https://www.curseforge.com/minecraft/mc-mods/lithium) | Server and client performance optimization |
