@@ -32,7 +32,6 @@ On Linux, by default, here:
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | Adds a saturation overlay over the hunger bar |
 | [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks) | Adds aditional functionalities to the vanilla crafting table |
 | [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) | Adds a tooltip that informs the mod the selected item is from |
-| [Useful Backpacks](https://www.curseforge.com/minecraft/mc-mods/useful-backpacks) | Adds backpacks to the game |
 | [Fast Leaft Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) | Fast leaf decay |
 | [Cooking For Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads) | Adds several cooking mechanics |
 | [Farming For Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads) | Adds farming utilities to minecraft |
