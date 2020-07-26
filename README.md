@@ -33,10 +33,11 @@ On Linux, by default, here:
 | [Carpet](https://www.curseforge.com/minecraft/mc-mods/carpet) | Adds several commands to the vanilla game |
 | [Carpet Extra](https://www.curseforge.com/minecraft/mc-mods/carpet-extra) | Addon to the carpet mod |
 | [LightOverlay *](https://www.curseforge.com/minecraft/mc-mods/light-overlay) | Adds a JEI style darkness overlay |
-| [InventoryProfiles *](https://www.curseforge.com/minecraft/mc-mods/inventory-profiles) | Inventory sorting and other inventory tweaks |
 | [Lithium *](https://www.curseforge.com/minecraft/mc-mods/lithium) | Server and client performance optimization |
 | [Tweakeroo *](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie) | Allows the more precise placement of blocks |
-| [MouseWheelie *](https://www.curseforge.com/minecraft/mc-mods/mouse-wheelie) | Adds scroll wheel functionality to inventories |
+| [Inventory Sorting *](https://www.curseforge.com/minecraft/mc-mods/inventory-sorting) | Adds inventory sorting |
+| [Diggus Maximus *](https://www.curseforge.com/minecraft/mc-mods/diggus-maximus) | A simple, confirugable, vein-miner |
+| [Apple Skin *](https://www.curseforge.com/minecraft/mc-mods/appleskin) | Adds saturation information to your hunger bar | 
 
 Mods marked with a * are optional. This means they are client side only or they are installed on the server but don't require a client side installation.
 
