@@ -22,37 +22,59 @@ On Linux, by default, here:
 
 ## Installed Mods
 
-| Mod Name | Desc |
-| --- | --- |
-| [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) | Adds several types of crates for item storage |
-| [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs) | Allows you to break only half of a double slab |
-| [JEI](https://www.curseforge.com/minecraft/mc-mods/jei) | Adds a menu besides the inventory where you can lookup recipes |
-| [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests) | Adds more types of chests to the game | 
-| [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) | Adds some quality of life tweaks to the mouse behaviour |
-| [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin) | Adds a saturation overlay over the hunger bar |
-| [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks) | Adds aditional functionalities to the vanilla crafting table |
-| [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) | Adds a tooltip that informs the mod the selected item is from |
-| [Fast Leaft Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) | Fast leaf decay |
-| [Cooking For Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads) | Adds several cooking mechanics |
-| [Farming For Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads) | Adds farming utilities to minecraft |
-| [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator) | Adds an elevator block that allows you to travel up and down in the same X and Z |
-| [Reap Mod](https://www.curseforge.com/minecraft/mc-mods/reap-mod) | Right click harvesting |
-| [Angel Ring](https://www.curseforge.com/minecraft/mc-mods/angel-ring) | Adds an item that enables creative-like flying in survival | 
-| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | Adds several new biomes to minecraft | 
-| [Nature's Compass](https://www.curseforge.com/minecraft/mc-mods/natures-compass) | Adds a compass that helps you locate a biome's location |
-| [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) | Performance improvements to the vanilla crafting system | 
-| [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) | One of the best and most powerfull tech mods | 
-| [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools) | Adds Mekanism tools | 
-| [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators) | Adds energy generators to Mekanism | 
-| [Mekanism Additions](https://www.curseforge.com/minecraft/mc-mods/mekanism-additions) | More changes to the Mekanism mods | 
-| [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) | Fast leaft decay | 
-| [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage) | Mass storage mod | 
-| [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons) | Addons  to Refined Storage | 
-| [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) | Adds sleeping bags and hammocks | 
-| [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-prob) | A more complete Wayla alternative | 
-| [Ranged Pumps](https://www.curseforge.com/minecraft/mc-mods/ranged-pumps) | Adds a block that pumps liquids in a range | 
-| [GaveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) | Adds gravestones when you die | 
-| [Connected Textures Mod](https://www.curseforge.com/minecraft/mc-mods/ctm) | Blocks connected textures | 
-| [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) | Adds the ability to search for keybinds using their name in the KeyBinding menu | 
-| [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus) | Sleeping voting system for servers | 
-| [Placebo](https://www.curseforge.com/minecraft/mc-mods/placebo) | Holds shared code for use in my mods | 
+| Mod Name |
+| --- |
+| [JEI](https://www.curseforge.com/minecraft/mc-mods/jei) |
+| [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers) |
+| [Iron Chests](https://www.curseforge.com/minecraft/mc-mods/iron-chests) |
+| [CraftTweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker) |
+| [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) |
+| [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus) |
+| [Applied Energistics 2](https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2) |
+| [Immersive Engineering](https://www.curseforge.com/minecraft/mc-mods/immersive-engineering) |
+| [Botania](https://www.curseforge.com/minecraft/mc-mods/botania) |
+| [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib) |
+| [Mantle](https://www.curseforge.com/minecraft/mc-mods/mantle) |
+| [Cooking for Blockheads](https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads) |
+| [ConnectedTexturesMod](https://www.curseforge.com/minecraft/mc-mods/ctm) |
+| [Bookshelf](https://www.curseforge.com/minecraft/mc-mods/bookshelf) |
+| [Controlling](https://www.curseforge.com/minecraft/mc-mods/controlling) |
+| [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) |
+| [Dark Utilities](https://www.curseforge.com/minecraft/mc-mods/dark-utilities) |
+| [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) |
+| [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options) |
+| [Just Enough Resources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer) |
+| [Refined Storage](https://www.curseforge.com/minecraft/mc-mods/refined-storage) |
+| [KleeSlabs](https://www.curseforge.com/minecraft/mc-mods/kleeslabs) |
+| [Mystical Agriculture](https://www.curseforge.com/minecraft/mc-mods/mystical-agriculture) |
+| [Cucumber Library](https://www.curseforge.com/minecraft/mc-mods/cucumber) |
+| [Mystical Agradditions](https://www.curseforge.com/minecraft/mc-mods/mystical-agradditions) |
+| [Industrial Foregoing](https://www.curseforge.com/minecraft/mc-mods/industrial-foregoing) |
+| [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) |
+| [FastWorkbench](https://www.curseforge.com/minecraft/mc-mods/fastworkbench) |
+| [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe) |
+| [Mekanism](https://www.curseforge.com/minecraft/mc-mods/mekanism) |
+| [OpenBlocks Elevator](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator) |
+| [Simply Jetpacks 2](https://www.curseforge.com/minecraft/mc-mods/simply-jetpacks-2) |
+| [Crafting Tweaks](https://www.curseforge.com/minecraft/mc-mods/crafting-tweaks) |
+| [Mekanism Generators](https://www.curseforge.com/minecraft/mc-mods/mekanism-generators) |
+| [Ranged Pumps](https://www.curseforge.com/minecraft/mc-mods/ranged-pumps) |
+| [Cyclic](https://www.curseforge.com/minecraft/mc-mods/cyclic) |
+| [Mod Name Tooltip](https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip) |
+| [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod) |
+| [Waystones](https://www.curseforge.com/minecraft/mc-mods/waystones) |
+| [Building Gadgets](https://www.curseforge.com/minecraft/mc-mods/building-gadgets) |
+| [Mekanism Tools](https://www.curseforge.com/minecraft/mc-mods/mekanism-tools) |
+| [Farming for Blockheads](https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads) |
+| [Refined Storage Addons](https://www.curseforge.com/minecraft/mc-mods/refined-storage-addons) |
+| [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter) |
+| [JEI Integration](https://www.curseforge.com/minecraft/mc-mods/jei-integration) |
+| [Sound Filters](https://www.curseforge.com/minecraft/mc-mods/sound-filters) |
+| [EnderTanks](https://www.curseforge.com/minecraft/mc-mods/endertanks) |
+| [MiniCoal](https://www.curseforge.com/minecraft/mc-mods/minicoal) |
+| [VanillaTweaks](https://www.curseforge.com/minecraft/mc-mods/vanillatweaks) |
+| [Reap Mod](https://www.curseforge.com/minecraft/mc-mods/reap-mod) |
+| [Random Loot Mod](https://www.curseforge.com/minecraft/mc-mods/random-loot-mod) |
+| [Powah!](https://www.curseforge.com/minecraft/mc-mods/powah) |
+| [Torcherino](https://www.curseforge.com/minecraft/mc-mods/torcherino) |
+| [Mining Gadgets](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets) |
